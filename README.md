@@ -1,6 +1,6 @@
 E-commerce Survival Analysis
 
-This repository contains a machine learning project focused on Survival Analysis within an e-commerce context. The primary objective is to model and predict the "time-to-event"—specifically, how long a product remains on the market before being purchased.
+This repository contains a machine learning project focused on Survival Analysis within an e-commerce context. The primary objective is to model and predict the "time-to-event," specifically, how long a product remains on the market before being purchased.
 
 Project Overview
 
